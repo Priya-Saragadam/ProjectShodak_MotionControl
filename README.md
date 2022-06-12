@@ -1,8 +1,8 @@
-# ProjectShodak
-Project Shodak is an Open Lab project by S Lakshmi Priya and Ramaraju Padmvathi, 3rd year undergraduate students in ECE at Amrita School of Engineering, Bangalore campus.
+# Project Shodak
+Project Shodak is developed by me and my father as a hobby because we found a need for a low noise and innovative cleaning methods.
 
 1. What is Shodak?
-Shodak is an automated vacuum cleaner that is capable to take intelligent decisions like direction identification, set appropriate speed , cover and clean most of the house area. 
+Shodak is an automated low noise vacuum cleaner that is capable to take intelligent decisions like direction identification, set appropriate speed , cover and clean most of the house area. 
 
 2. What is the motivation?
 Hygiene is a practice that helps us stay peaceful, clean and healthy. During the pandemic, in India, most of the people traveled back to their home towns and stayed with their family. Classes/tutions and IT jobs made people stick to their chairs with electronic gadgets in hand. This was also the time when people could not let domestic workers to help them maintain hygiene at their current place of stay as well as their nuclear place of stay. 
