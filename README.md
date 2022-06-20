@@ -1,5 +1,5 @@
 # Project Shodak
-Project Shodak is developed by me and my father as a hobby because we found a need for a low noise and innovative cleaning methods.
+Project Shodak is developed by me and my father as a hobby because we found a need for a low noise and innovative cleaning method.
 
 1. What is Shodak?
 Shodak is an automated low noise vacuum cleaner that is capable to take intelligent decisions like direction identification, set appropriate speed , cover and clean most of the house area. 
@@ -7,7 +7,7 @@ Shodak is an automated low noise vacuum cleaner that is capable to take intellig
 2. What is the motivation?
 Hygiene is a practice that helps us stay peaceful, clean and healthy. During the pandemic, in India, most of the people traveled back to their home towns and stayed with their family. Classes/tutions and IT jobs made people stick to their chairs with electronic gadgets in hand. This was also the time when people could not let domestic workers to help them maintain hygiene at their current place of stay as well as their nuclear place of stay. 
 
-  The problem is easier way to clean and hygiene maintenance at home. So, we have come up with an automated vacuum cleaner, Shodak.
+  The problem is easier way to clean and maintain hygiene at home. So, we have come up with an automated vacuum cleaner, Shodak.
   
   ![3](https://user-images.githubusercontent.com/87947722/168611539-92190307-38a4-4062-92cc-4f48df36a007.png)
   ![new_pic](https://user-images.githubusercontent.com/87947722/168611836-09bdf79d-e609-4c3b-8aef-7bd22c18fd03.PNG)
