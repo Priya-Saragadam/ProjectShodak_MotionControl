@@ -30,3 +30,6 @@ b. Detect the walls and corners if the system encounters
 c. Detect any obstacles and avoid it
 d. Clean the maximum possible area
 e. To clean the floor, a good suction power must be adopted
+
+Final product:
+![image](https://user-images.githubusercontent.com/87947722/174720411-ce612eed-71f3-4e9f-8c62-f72c8f8376d3.png)
