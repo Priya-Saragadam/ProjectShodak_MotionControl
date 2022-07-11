@@ -1,5 +1,5 @@
 # Project Shodak
-Project Shodak is developed by me and my father as a hobby because we found a need for a low noise and innovative cleaning method.
+Shodak - A low noise and innovative cleaning device
 
 1. What is Shodak?
 Shodak is an automated low noise vacuum cleaner that is capable to take intelligent decisions like direction identification, set appropriate speed , cover and clean most of the house area. 
